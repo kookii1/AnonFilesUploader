@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1gKOe8flv6oakEDLYw0R0A15fZv7oXJMNRHNhmSIaypmobQy4DwGHLrMRkLCtI8LZ+LLmrn/QoZ081btIQYf8Q==",
+  "success": true,
+  "projectFilePath": "D:\\Henrique\\Projetos\\AnonFilesUploader\\AnonFilesUploader\\AnonFilesUploader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
